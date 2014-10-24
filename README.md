@@ -45,7 +45,7 @@ To run a command, follow these steps:
 
 1. Open socialnetwork.py in Python IDLE or terminal.
 
-2.Uncomment the command you want to test by removing the '#' symbol in front.
+2. Uncomment the command you want to try by removing the "#" symbol.
 
 3. Save the file.
 
