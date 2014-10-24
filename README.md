@@ -14,19 +14,19 @@ Various procedures embedded in socialnetwork.py can retrieve and manipulate the 
 
 Try out the program yourself! You will need to open the file socialnetwork.py in a Python IDLE or terminal to make it work. At the bottom of the file you will find a list of print commands that have been commented out:
 
-#print net
-#print path_to_friend(net, "John", "Ollie")
-#print get_connections(net, "Walter")
-#print add_new_user(net, "Debra", []) 
-#print add_new_user(net, "Nick", ["Seven Schemers", "The Movie: The Game"]) # True
-#print get_connections(net, "Mercedes")
-#print get_games_liked(net, "Olive")
-#print add_connection(net, "John", "Freda")
-#print get_secondary_connections(net, "Mercedes")
-#print connections_in_common(net, "Mercedes", "John")
-#print find_best_partner(net, "Freda")
-#print games_in_common(net, 'Walter', 'Levi')
-#print games_in_common(net, 'Robin', 'Ollie')
+\#print net
+\#print path_to_friend(net, "John", "Ollie")
+\#print get_connections(net, "Walter")
+\#print add_new_user(net, "Debra", []) 
+\#print add_new_user(net, "Nick", ["Seven Schemers", "The Movie: The Game"]) # True
+\#print get_connections(net, "Mercedes")
+\#print get_games_liked(net, "Olive")
+\#print add_connection(net, "John", "Freda")
+\#print get_secondary_connections(net, "Mercedes")
+\#print connections_in_common(net, "Mercedes", "John")
+\#print find_best_partner(net, "Freda")
+\#print games_in_common(net, 'Walter', 'Levi')
+\#print games_in_common(net, 'Robin', 'Ollie')
 
 To run a command, follow these steps:
 1. Uncomment the command you want to test by removing the '#' symbol in front.
