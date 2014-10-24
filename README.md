@@ -40,13 +40,16 @@ Try out the program yourself! You will need to open the file socialnetwork.py in
 
 \#print games_in_common(net, 'Robin', 'Ollie')
 
+
 To run a command, follow these steps:
 
-1. Uncomment the command you want to test by removing the '#' symbol in front.
+1. Open socialnetwork.py in Python IDLE or terminal.
 
-2. Save the file.
+2.Uncomment the command you want to test by removing the '#' symbol in front.
 
-3. Run the file.
+3. Save the file.
+
+4. Run the file.
 
 This project was a lot of fun to put together and taught me a lot about the basics of computer programming. Thanks for checking it out!
 
